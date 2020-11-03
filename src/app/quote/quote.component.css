@@ -3,11 +3,8 @@
     font-size: 50px;
 
 }
-.btn {
-    background-color: darkgreen;
+.bt{
+    background-color: rgba(50, 11, 192, 0.959);
+    font-size: 16px;
 
-}
-.btn :hover{
-    background-color: blue;
-  
 }
