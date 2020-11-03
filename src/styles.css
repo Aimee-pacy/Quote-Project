@@ -2,6 +2,7 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV8ufosOWnfe0hPlHdotRlSZk1vHhgtopB8Q&usqp=CAU");
+    background-repeat: no-repeat;
     width: 100%;
     
 }
