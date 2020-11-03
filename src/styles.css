@@ -1,7 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdBUu1CMmdsm_f5MDj6AyyTZhq4mPK98_SiA&usqp=CAU");
+    background-color: darkslategray;
+    /*background-image: url("");*/
     width: 100%;
     
 }
