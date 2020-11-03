@@ -1,5 +1,13 @@
 .quo{
     color:darkblue;
-    font-size: 40px;
+    font-size: 50px;
 
+}
+.btn {
+    background-color: darkgreen;
+
+}
+.btn :hover{
+    background-color: blue;
+  
 }
