@@ -14,7 +14,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Deployment
 
-##### Link to Live Site : []()
+##### Link to Live Site : [https://aimee-pacy.github.io/Quote-Project/](https://aimee-pacy.github.io/Quote-Project/)
 
 
 ## Code scaffolding
