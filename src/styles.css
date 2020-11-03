@@ -2,4 +2,6 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
     background-color: rgb(105, 145, 133);
+    width: 50%;
+    
 }
